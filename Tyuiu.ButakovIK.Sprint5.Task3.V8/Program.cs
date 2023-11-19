@@ -34,7 +34,7 @@ namespace Tyuiu.ButakovIK.Sprint5.Task3.V8
             Console.WriteLine("x = " + x);
 
             Console.WriteLine("*****************************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                                            *");
+            Console.WriteLine("* РЕЗУЛЬТAТ:                                                                            *");
             Console.WriteLine("*****************************************************************************************");
 
             string res = ds.SaveToFileTextData(x);

@@ -39,7 +39,8 @@ namespace Tyuiu.ButakovIK.Sprint5.Task0.V13
 
             string res = ds.SaveToFileTextData(x);
 
-            Console.WriteLine("Файл: " + res + " создан!");
+            Console.WriteLine("Файл: " + res);
+            Console.WriteLine("Создан!");
             Console.ReadKey();
         }
     }

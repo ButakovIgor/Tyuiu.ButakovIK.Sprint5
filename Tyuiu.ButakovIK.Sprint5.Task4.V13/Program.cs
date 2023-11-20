@@ -18,7 +18,7 @@ namespace Tyuiu.ButakovIK.Sprint5.Task4.V13
 
             Console.WriteLine("*****************************************************************************************");
             Console.WriteLine("* Спринт #5                                                                             *");
-            Console.WriteLine("* Тема: Чтeние данных из текстового файла                                               *");
+            Console.WriteLine("* Тема: Чтение данных из текстового файла                                               *");
             Console.WriteLine("* Таск #4                                                                               *");
             Console.WriteLine("* Вариaнт #13                                                                           *");
             Console.WriteLine("* Выполнил: Бутаков Игорь Константинович | АСОиУБ-23-1                                  *");

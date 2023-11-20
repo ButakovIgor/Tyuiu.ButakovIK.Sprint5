@@ -18,7 +18,6 @@ namespace Tyuiu.ButakovIK.Sprint5.Task4.V13.Test
             bool wait = true;
             Assert.AreEqual(wait, fileExists);
         }
-
         [TestMethod]
         public void ValidCalculate()
         {

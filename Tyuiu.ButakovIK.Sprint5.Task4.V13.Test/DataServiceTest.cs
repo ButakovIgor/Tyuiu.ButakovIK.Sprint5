@@ -11,7 +11,7 @@ namespace Tyuiu.ButakovIK.Sprint5.Task4.V13.Test
         [TestMethod]
         public void CheckExistsFile()
         {
-            string path = @"C:\Users\t4w3r\source\repos\Tyuiu.ButakovIK.Sprint5\Tyuiu.ButakovIK.Sprint5.Task4.V13\bin\Debug\InPutDataFileTask4V13.txt";
+            string path = @"C:\DataSprint5\InPutDataFileTask4V13.txt";
 
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
@@ -23,7 +23,7 @@ namespace Tyuiu.ButakovIK.Sprint5.Task4.V13.Test
         {
             DataService ds = new DataService();
 
-            string strX = @"C:\Users\t4w3r\source\repos\Tyuiu.ButakovIK.Sprint5\Tyuiu.ButakovIK.Sprint5.Task4.V13\bin\Debug\InPutDataFileTask4V13.txt";
+            string strX = @"C:\DataSprint5\InPutDataFileTask4V13.txt";
             double res = ds.LoadFromDataFile(strX);
             double wait = 1.051;
 

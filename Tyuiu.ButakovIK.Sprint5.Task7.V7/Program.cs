@@ -39,7 +39,7 @@ namespace Tyuiu.ButakovIK.Sprint5.Task7.V7
             Console.WriteLine("* РЕЗУЛЬТAТ:                                                                            *");
             Console.WriteLine("*****************************************************************************************");
 
-            string pathSaveFile = @"C:\DataSprint5\OutPutDataFileTask7V7.txt";
+            string pathSaveFile = @"C:\Users\t4w3r\source\repos\Tyuiu.ButakovIK.Sprint5\Tyuiu.ButakovIK.Sprint5.Task7.V7\bin\Debug\OutPutDataFileTask7V7.txt";
 
             Console.WriteLine("Результат сохранён в файл: " + pathSaveFile);
 
